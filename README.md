@@ -14,3 +14,7 @@
 - 🗄️ **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 - ☁️ **Infraestrutura:** Redes, servidores, virtualização e cloud
 - ⚙️ **Outros:** Git, GitHub, Docker, automação de tarefas
+
+## Minhas redes socias
+
+[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram/AntoniCunha)
