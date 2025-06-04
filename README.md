@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Olá, eu sou Antoni Cunha!
 
-<!--
-**Dev-AntoniEduardo/Dev-AntoniEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação**  
+🖥️ Atualmente trabalho com **infraestrutura de TI e redes**  
+💻 Apaixonado por **tecnologia e desenvolvimento de software**  
+🚀 Em transição para a área de **desenvolvimento**, focando em **backend, web e automação**  
+🌱 Sempre buscando aprender, evoluir e construir soluções que gerem impacto  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas que uso/aprendo:
+- 💻 **Frontend:** HTML, CSS, JavaScript
+- 🔧 **Backend:** Node.js, Python *(ou outra stack que estiver aprendendo)*
+- 🗄️ **Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- ☁️ **Infraestrutura:** Redes, servidores, virtualização e cloud
+- ⚙️ **Outros:** Git, GitHub, Docker, automação de tarefas
