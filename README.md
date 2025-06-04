@@ -10,7 +10,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas que uso/aprendo:
 - 💻 **Frontend:** HTML, CSS, JavaScript
-- 🔧 **Backend:** Node.js, Python *(ou outra stack que estiver aprendendo)*
+- 🔧 **Backend:** Node.js, Python
 - 🗄️ **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 - ☁️ **Infraestrutura:** Redes, servidores, virtualização e cloud
 - ⚙️ **Outros:** Git, GitHub, Docker, automação de tarefas
